@@ -1,1 +1,1 @@
-# KPHPNEWKOSMIK
+# Mindq-project
